@@ -1,2 +1,0 @@
-# ProgramaTrade
-Ingeniería de Pruebas
